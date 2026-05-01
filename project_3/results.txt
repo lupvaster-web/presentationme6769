@@ -1,0 +1,92 @@
+# 2026-04-19 17:58:13 | Рабочих: 30
+
+# 828мс | api-maps.yandex.ru
+vless://cb1691ad-49cc-46a9-b734-91c109200c32@151.247.197.77:47030?security=reality&sni=api-maps.yandex.ru&pbk=cZsRvk8pr8wfYiX1CNxdDjR38tow3HuL6IpBj8P82l8&sid=e18eda8458cab0d7&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5BSNI-RU%5D%20api-maps.yandex.ru
+
+# 1175мс | api-maps.yandex.ru
+vless://957e0e4f-8d38-4e6b-a325-d4a67d5eeb09@171.22.133.201:443?security=reality&encryption=none&pbk=dEUEW2rfQhUXG_3aJdmDBrAqAsau_NvsoGqzq-6psQ8&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=56acf6862a0ca0b9#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5BSNI-RU%5D%20api-maps.yandex.ru
+
+# 1369мс | api-maps.yandex.ru
+vless://cb1691ad-49cc-46a9-b734-91c109200c32@151.241.215.110:47030?security=reality&sni=api-maps.yandex.ru&pbk=cZsRvk8pr8wfYiX1CNxdDjR38tow3HuL6IpBj8P82l8&sid=e18eda8458cab0d7&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5BSNI-RU%5D%20api-maps.yandex.ru
+
+# 1832мс | ads.x5.ru
+vless://7b13eaac-882d-43a0-b19e-6d2e867d624e@51.250.116.199:443?type=grpc&security=reality&encryption=none&fp=random&pbk=8mILUX8PYFzZi2l9hmzKFMshhRRoahjwktbYHgL7WRk&sid=6347547485&sni=ads.x5.ru#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D%20YA
+
+# 1989мс | ads.x5.ru
+vless://a96f18f0-4a56-4c4f-be6e-434835f5523c@158.160.71.158:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=0j-QVy2pFdCuKAkppUYr0diUSjjKse9CtM5AMhHzqD4&sid=8ac77e6bab737698&sni=ads.x5.ru#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%5B%2ACIDR%5D%20YA
+
+# 2030мс | api-maps.yandex.ru
+vless://cb1691ad-49cc-46a9-b734-91c109200c32@151.241.216.148:47030?security=reality&sni=api-maps.yandex.ru&pbk=cZsRvk8pr8wfYiX1CNxdDjR38tow3HuL6IpBj8P82l8&sid=e18eda8458cab0d7&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%5BSNI-RU%5D%20api-maps.yandex.ru
+
+# 2060мс | api-maps.yandex.ru
+vless://cb1691ad-49cc-46a9-b734-91c109200c32@151.247.25.103:47030?security=reality&sni=api-maps.yandex.ru&fp=qq&pbk=cZsRvk8pr8wfYiX1CNxdDjR38tow3HuL6IpBj8P82l8&sid=e18eda8458cab0d7&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5BSNI-RU%5D%20api-maps.yandex.ru
+
+# 2191мс | ads.x5.ru
+vless://7b13eaac-882d-43a0-b19e-6d2e867d624e@51.250.116.199:443?type=grpc&security=reality&encryption=none&fp=random&pbk=8mILUX8PYFzZi2l9hmzKFMshhRRoahjwktbYHgL7WRk&sid=6347547485&sni=ads.x5.ru#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D%20YA
+
+# 2460мс | api-maps.yandex.ru
+vless://cb1691ad-49cc-46a9-b734-91c109200c32@82.21.114.184:47030?security=reality&sni=api-maps.yandex.ru&pbk=cZsRvk8pr8wfYiX1CNxdDjR38tow3HuL6IpBj8P82l8&sid=e18eda8458cab0d7&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5BSNI-RU%5D%20api-maps.yandex.ru
+
+# 2463мс | ozon.ru
+vless://fd2bfdd2-68eb-49b0-98ad-ed82f901edde@tr-1.illusion-vpn.ru:52000?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=4Fs4rORU_bK5Nwy9qvmVw3dAxS91bIG5cQYOmXl7zDA&sid=3d67b0666a5e09a0&sni=ozon.ru&spx=%2F#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5BSNI-RU%5D%20ozon.ru
+
+# 2521мс | ozon.ru
+vless://fd2bfdd2-68eb-49b0-98ad-ed82f901edde@tr-1.illusion-vpn.ru:52000?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=4Fs4rORU_bK5Nwy9qvmVw3dAxS91bIG5cQYOmXl7zDA&sid=3d67b0666a5e09a0&sni=ozon.ru#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5BSNI-RU%5D%20ozon.ru
+
+# 3973мс | ads.x5.ru
+vless://19ef3d02-1c55-4fec-9794-6def8cbac396@84.201.167.191:5443?type=tcp&security=reality&encryption=none&sni=ads.x5.ru&fp=chrome&pbk=2PCd3dpOz7U00hnx1QqdVYxrTFgYKODxmjBXMWov8Xo&sid=91e2a4c7&spx=%2F&flow=xtls-rprx-vision#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D%20YA
+
+# 4186мс | api-maps.yandex.ru
+vless://cb1691ad-49cc-46a9-b734-91c109200c32@151.241.221.10:47030?security=reality&sni=api-maps.yandex.ru&pbk=cZsRvk8pr8wfYiX1CNxdDjR38tow3HuL6IpBj8P82l8&sid=e18eda8458cab0d7&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5BSNI-RU%5D%20api-maps.yandex.ru
+
+# 4504мс | max.ru
+vless://7eaa66b0-f09c-4df4-89c1-ae96c6591c9d@83.166.255.130:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=o_JFuLv0N6nFWnDWF7yoeJhB5hL95Xu_MyX4Fd6DsBA&sid=51da5ac3cba2fca0&spx=%2F#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B%2ACIDR%5D%20VK
+
+# 4606мс | max.ru
+vless://f4cfb387-e01f-4872-b3ea-50e1da0abb06@83.166.255.130:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=o_JFuLv0N6nFWnDWF7yoeJhB5hL95Xu_MyX4Fd6DsBA&sid=12ff38fb&spx=%2F#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B%2ACIDR%5D%20VK
+
+# 4751мс | api-maps.yandex.ru
+vless://cb1691ad-49cc-46a9-b734-91c109200c32@90.156.230.108:47030?security=reality&sni=api-maps.yandex.ru&fp=qq&pbk=cZsRvk8pr8wfYiX1CNxdDjR38tow3HuL6IpBj8P82l8&sid=e18eda8458cab0d7&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20%5BSNI-RU%5D%20api-maps.yandex.ru
+
+# 5091мс | max.ru
+vless://01bd3a30-ad45-4ec2-b40d-426a6448504c@83.166.255.130:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=o_JFuLv0N6nFWnDWF7yoeJhB5hL95Xu_MyX4Fd6DsBA&sid=8273429fe27fbb01&spx=%2F#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B%2ACIDR%5D%20VK
+
+# 5171мс | ads.x5.ru
+vless://a96f18f0-4a56-4c4f-be6e-434835f5523c@ya2177.memeplanet.org:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=0j-QVy2pFdCuKAkppUYr0diUSjjKse9CtM5AMhHzqD4&sid=8ac77e6bab737698&sni=ads.x5.ru#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%5B%2ACIDR%5D%20YA
+
+# 5502мс | ads.x5.ru
+vless://a96f18f0-4a56-4c4f-be6e-434835f5523c@ya2177.memeplanet.org:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=0j-QVy2pFdCuKAkppUYr0diUSjjKse9CtM5AMhHzqD4&sid=8ac77e6bab737698&sni=ads.x5.ru#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%5B%2ACIDR%5D%20YA
+
+# 6173мс | www.vk.com
+vless://9e82ed58-f7c5-484c-81aa-89db362bf223@nl-8.ummavpn.com:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=&pbk=gBer2H45i735ynkGtcYhGELZXDIf5CfxpE4S_Cl4WGw&sid=b42255c81b5a01c8&sni=www.vk.com&path=&host=#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5BSNI-RU%5D%20www.vk.com
+
+# 6595мс | max.ru
+vless://5fdc80cb-635e-42cc-8ddf-ae28fa191022@83.166.255.130:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=o_JFuLv0N6nFWnDWF7yoeJhB5hL95Xu_MyX4Fd6DsBA&sid=8273429fe27fbb01&spx=%2F#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B%2ACIDR%5D%20VK
+
+# 6612мс | ads.x5.ru
+vless://19ef3d02-1c55-4fec-9794-6def8cbac396@84.201.167.191:5443?type=tcp&security=reality&encryption=none&sni=ads.x5.ru&fp=chrome&pbk=2PCd3dpOz7U00hnx1QqdVYxrTFgYKODxmjBXMWov8Xo&sid=91e2a4c7&spx=%2F&flow=xtls-rprx-vision#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D%20YA
+
+# 7674мс | api-maps.yandex.ru
+vless://cb1691ad-49cc-46a9-b734-91c109200c32@151.241.227.110:47030?security=reality&sni=api-maps.yandex.ru&fp=qq&pbk=cZsRvk8pr8wfYiX1CNxdDjR38tow3HuL6IpBj8P82l8&sid=e18eda8458cab0d7&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5BSNI-RU%5D%20api-maps.yandex.ru
+
+# 8135мс | max.ru
+vless://5fdc80cb-635e-42cc-8ddf-ae28fa191022@83.166.255.130:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=o_JFuLv0N6nFWnDWF7yoeJhB5hL95Xu_MyX4Fd6DsBA&sid=8273429fe27fbb01&spx=%2F#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B%2ACIDR%5D%20VK
+
+# 8718мс | ads.x5.ru
+vless://30a3d65b-2963-48ef-ac5c-9f354fadc85c@212.233.121.168:5443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=nxnDt_F4R6QK9mKQ7dUpvCcJPtwYNPdlNWWjeiDyYj0&sid=e0d4ee&sni=ads.x5.ru#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D%20VK
+
+# 8800мс | max.ru
+vless://f4cfb387-e01f-4872-b3ea-50e1da0abb06@83.166.255.130:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=o_JFuLv0N6nFWnDWF7yoeJhB5hL95Xu_MyX4Fd6DsBA&sid=12ff38fb&spx=%2F#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B%2ACIDR%5D%20VK
+
+# 8832мс | max.ru
+vless://7eaa66b0-f09c-4df4-89c1-ae96c6591c9d@83.166.255.130:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=o_JFuLv0N6nFWnDWF7yoeJhB5hL95Xu_MyX4Fd6DsBA&sid=51da5ac3cba2fca0&spx=%2F#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B%2ACIDR%5D%20VK
+
+# 8935мс | ads.x5.ru
+vless://30a3d65b-2963-48ef-ac5c-9f354fadc85c@212.233.121.168:5443?type=tcp&security=reality&encryption=none&fp=qq&pbk=nxnDt_F4R6QK9mKQ7dUpvCcJPtwYNPdlNWWjeiDyYj0&sid=e0d4ee&sni=ads.x5.ru&spx=/#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D%20VK
+
+# 8958мс | max.ru
+vless://01bd3a30-ad45-4ec2-b40d-426a6448504c@83.166.255.130:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=o_JFuLv0N6nFWnDWF7yoeJhB5hL95Xu_MyX4Fd6DsBA&sid=8273429fe27fbb01&spx=%2F#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B%2ACIDR%5D%20VK
+
+# 9067мс | api-maps.yandex.ru
+vless://929e5c95-8f0d-44a6-b678-db128098c896@45.84.1.123:443?security=reality&encryption=none&pbk=YFfz76RnULla7CbfuMpkCmaUF3RVhu5JRYb6HAR95Ak&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=4b#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5BSNI-RU%5D%20api-maps.yandex.ru
+
