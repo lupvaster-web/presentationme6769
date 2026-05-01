@@ -1,0 +1,5 @@
+def f(a, x, y):
+    return ((x<=9)<=(x*x<=a)) and ((y*y<=a)<= (y<=9))
+for a in range(-300,300):
+    if all(f(a,x,y)for x in range(0,300)for y in range(0,300)):
+        print(a)

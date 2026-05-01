@@ -1,0 +1,8 @@
+f = open('17_1.txt')
+a= [int(s) for s in f]
+
+res=[]
+for i in range(len(a)-1):
+    if (a[i]%10 ==0 and a[i+1]%13 !=0)or(a[i]%13 !=0 and a[i+1]%10==0):
+        res.append9a[i] +a[i+1]
+print(len(res), max(res))

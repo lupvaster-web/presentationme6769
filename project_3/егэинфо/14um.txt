@@ -1,0 +1,6 @@
+
+for x in '0123456789abcde': 
+    for y in '0123456789abcde':  
+        s = int(f'90{x}4{y}', 15) + int(f'91{x}{y}2', 16)
+        if s % 56 == 0:
+            print(x, y, s // 56)  

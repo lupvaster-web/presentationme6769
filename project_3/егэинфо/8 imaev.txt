@@ -1,0 +1,9 @@
+from itertools import*
+k=0
+alf = 'юйкнь'
+for x in product(alf, repeat = 4):
+    s= ''.join(x)
+    k+=1
+    if s[0]=='н':
+        print(k)
+        break

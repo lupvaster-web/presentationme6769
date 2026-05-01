@@ -1,0 +1,7 @@
+n = 6*343**5+5*49**7-50
+base = 7
+lst = []
+while n>0:
+    lst. append(n % base)
+    n = n//base
+print(lst.count(6))

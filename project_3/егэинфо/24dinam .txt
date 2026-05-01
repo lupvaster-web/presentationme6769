@@ -1,0 +1,11 @@
+s= open('24_16333.txt').readline()
+c=0
+m=[]
+
+for i in range(len(s)):
+    if s[i] in 'ACD':
+        c+=1
+    else:
+        c=0
+    m.append(c)
+print(max(m))

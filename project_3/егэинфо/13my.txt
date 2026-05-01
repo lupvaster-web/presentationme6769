@@ -1,0 +1,5 @@
+from ipaddress import*
+
+ne= ip_network('172.16.160.0/255.255.240.0',0)
+a= [int(x) for x in ne if (f'{x:b}').count('1')%2==0]
+print(len(a))

@@ -1,0 +1,13 @@
+s= open('24-1.txt').readline()
+k=0
+l=0
+m=[]
+
+for r in range(len(s)):
+    if s[r] in 'ABX': k+=1
+    while k>5:
+        if s[l] in 'ABX': k-=1
+        l+=1
+    if k<=5:
+        m.append(r-l+1)
+print(max(m))

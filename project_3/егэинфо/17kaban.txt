@@ -1,0 +1,8 @@
+a = [int(x) for x in open('17.txt')]
+m= max([x for x in a if x%100==15])
+ans=[]
+
+for x,y,z in zip(a,a[1:],a[2:]):
+    if (100<=x<10000)+(100<=y<10000)+(100<=z<10000)==1 and x+y+z>=m:
+        ans.append(x+y+z)
+print(len(ans),max(ans))

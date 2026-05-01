@@ -1,0 +1,3 @@
+s= open('24.txt')
+s= s.replace('c',' ').replace('d',' ')
+print(max(len(c) for c in s.split))

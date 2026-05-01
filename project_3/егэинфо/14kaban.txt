@@ -1,0 +1,6 @@
+x= 81**17 + 3**24 - 45
+a=[]
+while x>0:
+    a.append(x%9)
+    x=x//9
+print(a.count(8))

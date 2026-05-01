@@ -1,0 +1,5 @@
+from fnmatch import*
+
+for x in range(0,10**8,1923):
+    if fnmatch(str(x),'1*2??76'):
+        print(x, x//1923)

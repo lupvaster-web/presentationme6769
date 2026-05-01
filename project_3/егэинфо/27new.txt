@@ -1,0 +1,78 @@
+from math import dist
+filea = open('27_B.txt')
+
+data= []
+for s in filea:
+    v = s.replace(',','.').split()
+    x= float(v[0])
+    y=float(v[1])
+    h= (v[2])
+    data.append(([x,y],h))
+print(len(data))
+
+clusters=[]
+while data:
+    clusters.append([data.pop(0)])
+    for t in clusters[-1]:
+        sosedi = [t1 for t1 in data if dist(t[0], t1[0])<1]
+        clusters[-1]+=sosedi
+        for x in sosedi:
+            data.remove(x)
+    print(len(clusters[-1]))
+
+def yellow(t):
+    return  t[1][0] =='Z' and t[1][-1]=='I'  and len(t[1])==3 
+
+
+def centroid(cl):
+    n=[]
+    for t in cl:
+        sm= sum(dist(t[0],t1[0]) for t1 in cl)
+        n.append([sm, t])
+    return min(n)[1]
+
+data=clusters[0]+ clusters[1]
+centroids= [centroid(cl) for cl in clusters]
+c= centroids[1]
+
+min_cl0=min(dist(t[0],t1[0])for t in clusters[0] for t1 in clusters[0] if t!= t1 and yellow(t) and yellow(t1))
+min_cl2=min(dist(t[0],t1[0])for t in clusters[2] for t1 in clusters[2] if t!= t1 and yellow(t) and yellow(t1))
+b1= min(min_cl0,min_cl2)
+
+k_cl0= len([ t for t in clusters[0] if yellow(t)])
+k_cl1= len([ t for t in clusters[1] if yellow(t)])
+k_cl2= len([ t for t in clusters[2] if yellow(t)])
+print(k_cl0,k_cl1,k_cl2)
+
+b2= dist(centroids[0][0], centroids[1][0])
+print(int(abs(b1*10000)))
+print(int(abs(b2*10000)))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# data=clusters[0]+ clusters[1]
+# centroids= [centroid(cl) for cl in clusters]
+# c= centroids[1]
+# a1= min(dist(c[0],t[0])for t in data if t[1][0]=='Y' and t[1][-3:]=='III')
+
+# a2= max(dist(c[0],t[0])for t in data if t[1][0]=='Y' and t[1][-3:]=='III')
+# print(int(a1*10000),(int(a2*10000)))
+
+
+#4940 74302
+#1035 125591

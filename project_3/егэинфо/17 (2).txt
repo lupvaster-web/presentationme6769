@@ -1,0 +1,10 @@
+f = open('17_3.txt')
+a = [int(x) for x in f]
+
+res= []
+for i in range(len(a)-2):
+    if (a[i]%4 ==0)+(a[i+1]%14==0)+(a[i+2]%14==0)>=1:
+        if (a[i]%4==0)+(a[i+1]%4==0)+(a[i+2]%4==0)==3:
+            sr=(a[i]+a[i+1]+a[i+2])/3
+            res.append(sr)
+print(len(res),min(res))

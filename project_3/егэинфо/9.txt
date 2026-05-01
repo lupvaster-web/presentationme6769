@@ -1,0 +1,9 @@
+f= open('texti.txt')
+res =0
+k=0
+for s in f:
+    a= [int(x) for x in s.split()]
+    if max(a)<sum(a)-max(a):
+        cnt = [a.count(x) for x in a]
+        if cnt.count(1)==2 and cnt.count(2)==2:
+            print(k)

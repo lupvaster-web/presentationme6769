@@ -1,0 +1,2 @@
+s = open("24.txt").readline
+print(11*'c' in s)

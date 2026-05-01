@@ -1,0 +1,31 @@
+from math import dist
+f= open('27_B.txt')
+f.readline()
+
+data=[]
+for s in f:
+    x, y = [float(k) for k in s.split()]
+    data.append([x,y])
+print(len(data))
+
+clusters=[]
+while data:
+    clusters.append([data.pop(0)])
+    for p in clusters[-1]:
+        sosedi = [p1 for p1 in data if dist(p, p1)< 1.5]
+        clusters[-1].extend(sosedi)
+        for p1 in sosedi:
+            data.remove(p1)
+    print(len(clusters[-1]))
+
+def centroid(cl):
+    n=[]
+    for p in cl:
+        sm= sum(dist(p,p1) for p1 in cl)
+        n.append([sm,p])
+    return min(n)[1] 
+
+centroids= [centroid(cl) for cl in clusters]
+px = int(abs(sum(x for x,y in centroids)/len(centroids)*10000))
+py = int(abs(sum(y for x,y in centroids)/len(centroids)*10000))
+print(px, py)
